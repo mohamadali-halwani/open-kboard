@@ -1,4 +1,4 @@
-# (((The Free keyboard initiative)))
+# (((The Open keyboard initiative)))
 ## Trying to provide everyone with keyboard blueprints free to make in 3D printers.
 #### Our keyboards are:
 * Fully Ergonomic:
