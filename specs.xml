@@ -1,18 +1,38 @@
 <Free-k-board>
     <Buttons>
         <normal>
-        
-        
+            <nickname>single</nickname>
+            <width>15 mm</width>
+            <length>7 mm</length>
+            <height>5 mm</height>
         </normal>
+        
         <double>
-        
-        
+            <nickname>double</nickname>
+            <width>30 mm</width>
+            <length>7 mm</length>
+            <height>5 mm</height>
         
         </double>
+        
         <space>
-        
-        
+            <nickname>triple</nickname>
+            <width>45 mm</width>
+            <length>7 mm</length>
+            <height>5 mm</height>
         
         </space>
+
+        <numbering>
+            <total>108 keys
+                <normal>75 keys</normal>
+                <double>13 keys</double>
+                <space>1 key</space>
+            
+            
+            </total>
+            
+        
+        </numbering>
     </Buttons>
 </Free-k-board>
