@@ -1,0 +1,28 @@
+{"free-k-board": {
+    "buttons":{
+        "normal":{
+            "width": "15 mm",
+            "length": "7 mm",
+            "height":"5 mm"
+        },
+        "double":{
+            "width": "30 mm",
+            "length": "7 mm",
+            "height":"5 mm"
+        },
+        "space":{
+            "width": "45 mm",
+            "length": "7 mm",
+            "height":"5 mm"
+        },
+        "numbering":{
+            "total": "108",
+            "normal":"75",
+            "double":"13*2",
+            "space":"3*1"
+
+        }
+    }
+}
+
+}
