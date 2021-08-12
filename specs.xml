@@ -1,5 +1,5 @@
-<Free-k-board>
-    <Buttons>
+<open-k-board>
+    <buttons>
         <normal>
             <nickname>single</nickname>
             <width>15 mm</width>
@@ -34,5 +34,5 @@
             
         
         </numbering>
-    </Buttons>
-</Free-k-board>
+    </buttons>
+</open-k-board>
